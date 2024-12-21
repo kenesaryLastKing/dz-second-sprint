@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/dz-second-sprint/static/css/main.14adc2c0.css",
-    "main.js": "/dz-second-sprint/static/js/main.603b68f6.js",
+    "main.js": "/dz-second-sprint/static/js/main.d5b304f3.js",
     "static/js/787.66cb4309.chunk.js": "/dz-second-sprint/static/js/787.66cb4309.chunk.js",
     "static/media/avatar.png": "/dz-second-sprint/static/media/avatar.d947cb9d0d13765666b6.png",
     "static/media/200.svg": "/dz-second-sprint/static/media/200.96248f7df0dde10e0a82ac30418f50bc.svg",
@@ -15,11 +15,11 @@
     "index.html": "/dz-second-sprint/index.html",
     "static/media/burger.svg": "/dz-second-sprint/static/media/burger.700e416f7bfe3697f96b36c778d25355.svg",
     "main.14adc2c0.css.map": "/dz-second-sprint/static/css/main.14adc2c0.css.map",
-    "main.603b68f6.js.map": "/dz-second-sprint/static/js/main.603b68f6.js.map",
+    "main.d5b304f3.js.map": "/dz-second-sprint/static/js/main.d5b304f3.js.map",
     "787.66cb4309.chunk.js.map": "/dz-second-sprint/static/js/787.66cb4309.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.14adc2c0.css",
-    "static/js/main.603b68f6.js"
+    "static/js/main.d5b304f3.js"
   ]
 }
