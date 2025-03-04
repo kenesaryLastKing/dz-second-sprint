@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/dz-second-sprint/static/css/main.28107e40.css",
-    "main.js": "/dz-second-sprint/static/js/main.12b53c5b.js",
+    "main.js": "/dz-second-sprint/static/js/main.d34c3511.js",
     "static/js/787.67f55d8d.chunk.js": "/dz-second-sprint/static/js/787.67f55d8d.chunk.js",
     "static/media/avatar.png": "/dz-second-sprint/static/media/avatar.d947cb9d0d13765666b6.png",
     "static/media/200.svg": "/dz-second-sprint/static/media/200.96248f7df0dde10e0a82ac30418f50bc.svg",
@@ -14,12 +14,15 @@
     "static/media/checked.svg": "/dz-second-sprint/static/media/checked.b75ca55e8759862b4083.svg",
     "index.html": "/dz-second-sprint/index.html",
     "static/media/burger.svg": "/dz-second-sprint/static/media/burger.700e416f7bfe3697f96b36c778d25355.svg",
+    "static/media/noneIcon.svg": "/dz-second-sprint/static/media/noneIcon.849d424f3b23476ba0704b14b7e32242.svg",
+    "static/media/PolygonDownBold.svg": "/dz-second-sprint/static/media/PolygonDownBold.84608c11f30550bbfe9dc58dff6d4ddb.svg",
+    "static/media/PolygonUpBold.svg": "/dz-second-sprint/static/media/PolygonUpBold.3f53e1ada336d4a2b89dabfb878c65f9.svg",
     "main.28107e40.css.map": "/dz-second-sprint/static/css/main.28107e40.css.map",
-    "main.12b53c5b.js.map": "/dz-second-sprint/static/js/main.12b53c5b.js.map",
+    "main.d34c3511.js.map": "/dz-second-sprint/static/js/main.d34c3511.js.map",
     "787.67f55d8d.chunk.js.map": "/dz-second-sprint/static/js/787.67f55d8d.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.28107e40.css",
-    "static/js/main.12b53c5b.js"
+    "static/js/main.d34c3511.js"
   ]
 }
